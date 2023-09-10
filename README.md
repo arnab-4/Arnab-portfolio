@@ -2,11 +2,13 @@
   <img src="portfolio.png" alt="Portfolio Screenshot">
 </p>
 
-# My Portfolio
+<h1 align="center">My Portfolio</h1>
 
-Welcome to my portfolio website, showcasing my work and skills as a web developer. This portfolio is built using Next.js, TypeScript, JavaScript, React, and Framer Motion.
+<p align="center">Welcome to my portfolio website, showcasing my work and skills as a web developer. This portfolio is built using Next.js, TypeScript, JavaScript, React, and Framer Motion.</p>
 
-**Visit the live site**: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+<p align="center">
+  <a href="https://your-portfolio-url.com">Visit the live site</a>
+</p>
 
 ## Table of Contents
 - [About](#about)
@@ -17,21 +19,19 @@ Welcome to my portfolio website, showcasing my work and skills as a web develope
 - [Contact](#contact)
 
 ## About
-
 This portfolio serves as a showcase of my projects, skills, and experience as a web developer. It's designed to provide an overview of my capabilities and to help others learn more about me and my work.
 
 ## Technologies Used
-
 - **Next.js**: A React framework for building server-rendered React applications.
 - **TypeScript**: A typed superset of JavaScript that enhances code quality and developer productivity.
 - **React**: A JavaScript library for building user interfaces.
 - **Framer Motion**: A popular animation library for React applications.
 
 ## Getting Started
-
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/portfolio.git
+
 2. **Navigate to the project directory:**
    ```bash
    cd portfolio
