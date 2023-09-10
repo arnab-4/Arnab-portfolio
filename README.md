@@ -7,7 +7,7 @@
 <p align="center">Welcome to my portfolio website, showcasing my work and skills as a web developer. This portfolio is built using Next.js, TypeScript, JavaScript, React, and Framer Motion.</p>
 
 <p align="center">
-  <a href="https://your-portfolio-url.com">Visit the live site</a>
+  <a href="https://arnab-portfolio-swart.vercel.app/">Visit the live site</a>
 </p>
 
 ## Table of Contents
@@ -30,11 +30,11 @@ This portfolio serves as a showcase of my projects, skills, and experience as a 
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/arnab-4/Arnab-portfolio.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd portfolio
+   cd Arnab-portfolio
 
 3. **Install the project dependencies:**
    ```bash
